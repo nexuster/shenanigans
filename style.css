@@ -3,10 +3,6 @@
 body {
   font-family: "Roboto", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 
 h1 {
@@ -16,7 +12,6 @@ h1 {
 }
 
 .hero-bg {
-  background-image: ;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
