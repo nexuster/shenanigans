@@ -17,7 +17,7 @@ body, html {
 }
 
 .hero-image {
-  background-image:linear-gradient(rgba(255,0,20,0.5), rgba(255,0,0,0.5)),url(images/hero/anger.png);
+  background-color:linear-gradient(rgba(255,0,80,0.5), rgba(255,0,0,0.5));
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
