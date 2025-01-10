@@ -16,9 +16,9 @@ h1 {
 }
 
 .hero-bg {
-  background-color: linear-gradient(#ffffff, #ff0080);
+  background-color: #ff0010;
 }
 
 .hero-text {
-  color: linear-gradient(#ffffff, #fffaff);
+  color: #fffaff;
 }
