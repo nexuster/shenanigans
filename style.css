@@ -15,7 +15,10 @@ h1 {
   font-style: normal;
 }
 
-.hero {
+.hero-bg {
   background-color: #ff0080;
+}
+
+.hero-text {
   color: #ffffff;
 }
