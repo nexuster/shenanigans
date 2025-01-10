@@ -21,7 +21,7 @@ h1 {
 }
 
 .hero-text {
-  color: #fffaff;
+  /* color: #fffaff; */
   text-align: center;
   position: absolute;
   top: 50%;
