@@ -11,7 +11,7 @@ an upcoming animated series created by wildwaffles
 
 ### current backgrounds by:
 - aurorastars
-- zeph, or trumpet masters
+- zeph, or trumpetmaster
 - nexuster
 
 ### scripts written by sanadmdq and edited by:
