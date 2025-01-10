@@ -20,5 +20,5 @@ h1 {
 }
 
 .hero-text {
-  color: #ffffff;
+  color: linear-gradient(#ffffff, #fffaff));
 }
