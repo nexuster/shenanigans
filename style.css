@@ -14,17 +14,17 @@ h1 {
 .hero-bg {
   background-color: ff00a0;
   height: 50%;
-  background-position: center;
+  /* background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  position: relative; */
 }
 
 .hero-text {
   /* color: #fffaff; */
   text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  /* position: absolute; */
+  /* top: 50%;
+  left: 50%; */
+  /* transform: translate(-50%, -50%); */
 }
