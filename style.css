@@ -16,6 +16,12 @@ body, html {
   margin: 0;
 }
 
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  /* border: 1px solid #ccc; */
+}
+
 .hero-image {
   background-color:linear-gradient(rgba(255,0,80,0.5), rgba(255,0,0,0.5));
   height: 50%;
@@ -32,12 +38,6 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-}
-
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  /* border: 1px solid #ccc; */
 }
 
 .tab {
