@@ -13,7 +13,10 @@
   </head>
   <body>
     <!-- <link href="navbar/navindex.html" rel="import" /> -->
-    <iframe src="navbar/navindex.html"></iframe>
+    <div class="tab">
+        <button class="tablinks marker" onclick="openTab(event, 'Home')">Self Insert Shenanigans</button>
+        <button class="tablinks" onclick="openTab(event, 'About')">About</button>
+    </div>
     <div class="tabcontent" id="Home">
       <div class="hero-image">
         <div class="hero-text">
@@ -22,5 +25,9 @@
         </div>
       </div>
     </div>
+    <div class="tabcontent" id="About">
+      <p>insert about us</p>
+    </div>
+    <script src="./script.js"></script>
   </body>
 </html>
